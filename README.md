@@ -1,16 +1,66 @@
-### Hi there 👋
 
-<!--
-**Babyoilrig/Babyoilrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+   Hi, my name is **Catrin Mentzoni**!
+   ===================================
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **I love coding! I have been learning to code as part of School of Code's Bootcamp 10 cohort - and I love it!**
+
+
+ ---------------------------------------------------------------------------------------------------------------
+
+**Skills:**
+-----------
+
+
+
+<img src='./JS.png' width='60'/>  <img src='./react.jpg' width='60'/>  <img src='./React-Native.png' width='60'/>
+<img src='./nodejs.jpg' width='60'/>  <img src='./HTML5_logo_black.svg.png' width='60'/>  <img src='./css-removebg-preview-big.png' width='60'>
+<img src='./postgres-removebg-preview-big.png' width='60'/>  <img src='./express.jpeg' width='60'/>  <img src='./nextjs.png' width='60'/>
+
+
+
+
+
+
+
+
+
+About me:
+---------
+
+* I am an enthusiastic and friendly individual with excellent communication and listening skills, 
+who thrives when working as part of a team.
+
+* I love learning new things, and I also love a challenge!
+
+* I have big ideas - and lots of them!
+
+* I am an independent, resourceful self-starter that can organise projects from start to finish, 
+and ensure that they are completed to a very high standard.
+
+* I have a good understanding of business, management and marketing - 
+having studied business for 7 years and run my own events business.
+
+
+Fun facts:
+----------
+
+
+* I previously worked as a primary school teacher for ten years.
+
+* I have two daughters aged 1 and 5.
+
+* I play guitar and bass guitar.
+
+* I am a MASSIVE music fan. I love everything from Alan Lomax's early recordings, to heavy metal, pop, northern soul, acid house, punk and post-punk and everything in between!
+
+* I love to travel.
+
+* I am very creative, and love art, graphic design and fashion.
+
+
+**Please send me a message on [LinkedIn](https://www.linkedin.com/in/catrin-mentzoni-9387b6224/)**
+
+
+
