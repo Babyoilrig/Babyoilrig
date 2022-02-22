@@ -64,3 +64,7 @@ Fun facts:
 
 
 
+[![Babyoilrig's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babyoilrig)](https://github.com/babyoilrig/github-readme-stats)
+
+
+
