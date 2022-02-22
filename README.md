@@ -68,3 +68,5 @@ Fun facts:
 
 
 [![Babyoilrig's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Babyoilrig)](https://github.com/babyoilrig/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babyoilrig)](https://git.io/streak-stats)
