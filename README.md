@@ -4,7 +4,7 @@
    ===================================
  
 
- **I love coding! I have been learning to code as part of School of Code's Bootcamp 10 cohort - and I love it!**
+ **I love coding! 
 
 
  ---------------------------------------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ Fun facts:
 
 * I previously worked as a primary school teacher for ten years.
 
-* I have two daughters aged 1 and 5.
+* I have two daughters aged 2 and 6.
 
 * I play guitar and bass guitar.
 
