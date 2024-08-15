@@ -30,13 +30,14 @@ who thrives when working as part of a team.
 
 * I love learning new things, and I also love a challenge!
 
-* I have big ideas - and lots of them!
-
 * I am an independent, resourceful self-starter that can organise projects from start to finish, 
 and ensure that they are completed to a very high standard.
 
 * I have a good understanding of business, management and marketing - 
 having studied business for 7 years and run my own events business.
+
+*I have a good understanding of how dev projects are organised, having worked as an account executive/project manager for [Brew Digital](https://www.wearebrew.co.uk/digital-marketing-agency-for-hospitality/) 
+between 2022 - 2023 where I was responsible for independently organising for full web builds.
 
 
 Fun facts:
@@ -45,7 +46,7 @@ Fun facts:
 
 * I previously worked as a primary school teacher for ten years.
 
-* I have two daughters aged 2 and 7.
+* I have two daughters aged 3 and 8.
 
 * I play guitar and bass guitar.
 
