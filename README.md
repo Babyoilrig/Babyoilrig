@@ -36,7 +36,7 @@ and ensure that they are completed to a very high standard.
 * I have a good understanding of business, management and marketing - 
 having studied business for 7 years and run my own events business.
 
-*I have a good understanding of how dev projects are organised, having worked as an account executive/project manager for [Brew Digital](https://www.wearebrew.co.uk/digital-marketing-agency-for-hospitality/) 
+* I have a good understanding of how dev projects are organised, having worked as an account executive/project manager for [Brew Digital](https://www.wearebrew.co.uk/digital-marketing-agency-for-hospitality/) 
 between 2022 - 2023 where I was responsible for independently organising for full web builds.
 
 
