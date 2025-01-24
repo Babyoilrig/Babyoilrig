@@ -44,7 +44,7 @@ Fun facts:
 
 * I previously worked as a primary school teacher for ten years.
 
-* I have two daughters aged 3 and 8.
+* I have two daughters aged 4 and 8.
 
 * I play guitar and bass guitar.
 
