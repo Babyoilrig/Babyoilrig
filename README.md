@@ -24,7 +24,7 @@
 
 About me:
 ---------
-Following a ten year career as a primary school teacher, I learned to code in 2022 with the [School of Code](https://schoolofcode.co.uk/). Following the bootcamp, and initially unsure of the route I wanted to take, I spent a year project managing web builds in a tech related role. Having realised that I really wanted to be a dev, I spent 2023 honing my coding skills and completed an internship between Jan-June 2024 with [Vista Health](https://vista.health/) in which I built a large and complex application for a blue chip pharmaceutical firm to display their global sales data. I am currently looking for a junior developer position.
+Following a ten year career as a primary school teacher, I learned to code in 2022 with the [School of Code](https://schoolofcode.co.uk/). Following the bootcamp, and initially unsure of the route I wanted to take, I spent a year project managing web builds in a tech related role. Having realised that I really wanted to be a dev, I spent 2023 honing my coding skills and completed an internship between Jan-June 2024 with [Vista Health](https://vista.health/) in which I built a large and complex application for a blue chip pharmaceutical firm to display their global sales data. I am currently working as a Junior Software Engineer with a large solicitors.
 <br/><br/>
 * I am an enthusiastic and friendly individual with excellent communication and listening skills, 
 who thrives when working as part of a team.
